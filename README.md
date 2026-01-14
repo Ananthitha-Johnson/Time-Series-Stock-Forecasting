@@ -104,4 +104,26 @@ After training, the LSTM model generates a **next 30-day forecast** using recurs
 
 ---
 
-## 📁 Repository Structure
+## 
+---
+
+## How to Run
+1. Open `time_series_forecasting.ipynb` in Google Colab
+2. Run all cells
+3. Data downloads automatically
+4. Models train, evaluate, and forecast
+
+---
+
+## Key Takeaways
+- Baselines are essential in time series (often very strong)
+- ARIMA requires stationarity + tuning to perform well
+- LSTM can model non-linear patterns but needs careful feature engineering and validation
+- Stock prediction is highly challenging due to noise and volatility
+
+---
+
+## Author
+**Ananthitha Johnson**  
+BSc (Hons) in Computer Science
+
